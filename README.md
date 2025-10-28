@@ -1,5 +1,11 @@
 <h1>Guide to run this notebook</h1>
 
+<h3>Fork this repository</h3>
+<h3>then clone using this command in command prompt or in any terminal (before this make sure git is installed in your laptop) -</h3>
+`git clone https://github.com/shourya-khatiyan/calories_burnt_prediction.git` - <h3>now this repo will be cloned in your system. Just follow the following for further setup </h3>
+
+---
+
 <h3>simply download jupyter</h3>
 <h3>keep both dataset and the notebook in one directory</h3>
 <h3>install required libraries</h3>
